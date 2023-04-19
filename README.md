@@ -1,5 +1,5 @@
 ![MasterHead](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif)
-<h1 align="center">Hi 👋, I'm Ajith Poojary</h1>
+<h1 align="center">Hi 👋, I'm Ajith S Poojary</h1>
 <h4 align="left">
 <p align="left">
 Welcome to my GitHub profile! I'm a data science enthusiast with a background in businesss operation and data analytics.
@@ -20,10 +20,10 @@ On this profile, you'll find some of my personal projects related to data scienc
 - 📄 I have done by
 	 <p align="left">
 	 <h4 align="left">
-	  Masters of Technology (MTech) in Software Engineering
+	  Masters of Technology (M.Tech) in Software Engineering
 	 </p>
 	 <p align="left">
-      Bachelors of Engineering (B.E) in Information Science
+      Bachelors of Engineering (B.E) in Information Science & Engineering
      </p>
      </h4>
 
@@ -64,7 +64,7 @@ On this profile, you'll find some of my personal projects related to data scienc
      <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/> </a> </p>
  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50" height="50"/> </a>
  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/> </a>
- <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="50" height="50"/> </a>
+ <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="50" height="50"/> </a></p>
 
 
 

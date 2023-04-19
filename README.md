@@ -64,17 +64,17 @@ On this profile, you'll find some of my personal projects related to data scienc
      <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/> </a> </p>
  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50" height="50"/> </a>
  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/> </a>
- <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/> </a>
+ <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="50" height="50"/> </a>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajithspoojary&show_icons=true&locale=en&layout=compact" alt="connectasp" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajithspoojary&show_icons=true&locale=en" alt="connectasp" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ajithspoojary&show_icons=true&locale=en" alt="connectasp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajithspoojary&" alt="connectasp" /></p>
 
 <h4 align="left">
 <p align="left">
-Thank you for stopping by, and I hope you find something useful or inspiring on my profile!
+Thank you for stopping by, and I hope you find something useful on my profile!
 </p>
 </h4>
